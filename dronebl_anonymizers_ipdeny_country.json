@@ -1,0 +1,822 @@
+[
+	{
+		"code": "AD",
+		"value": 109
+	},
+	{
+		"code": "AE",
+		"value": 235
+	},
+	{
+		"code": "AF",
+		"value": 405
+	},
+	{
+		"code": "AG",
+		"value": 4
+	},
+	{
+		"code": "AL",
+		"value": 1350
+	},
+	{
+		"code": "AM",
+		"value": 389
+	},
+	{
+		"code": "AO",
+		"value": 50
+	},
+	{
+		"code": "AQ",
+		"value": 1
+	},
+	{
+		"code": "AR",
+		"value": 31560
+	},
+	{
+		"code": "AT",
+		"value": 1279
+	},
+	{
+		"code": "AU",
+		"value": 1648
+	},
+	{
+		"code": "AZ",
+		"value": 254
+	},
+	{
+		"code": "BA",
+		"value": 1680
+	},
+	{
+		"code": "BB",
+		"value": 19
+	},
+	{
+		"code": "BD",
+		"value": 9529
+	},
+	{
+		"code": "BE",
+		"value": 337
+	},
+	{
+		"code": "BF",
+		"value": 57
+	},
+	{
+		"code": "BG",
+		"value": 3387
+	},
+	{
+		"code": "BH",
+		"value": 3
+	},
+	{
+		"code": "BI",
+		"value": 54
+	},
+	{
+		"code": "BJ",
+		"value": 103
+	},
+	{
+		"code": "BM",
+		"value": 4
+	},
+	{
+		"code": "BN",
+		"value": 14
+	},
+	{
+		"code": "BO",
+		"value": 648
+	},
+	{
+		"code": "BQ",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 223189
+	},
+	{
+		"code": "BS",
+		"value": 22
+	},
+	{
+		"code": "BT",
+		"value": 2
+	},
+	{
+		"code": "BW",
+		"value": 170
+	},
+	{
+		"code": "BY",
+		"value": 804
+	},
+	{
+		"code": "BZ",
+		"value": 36
+	},
+	{
+		"code": "CA",
+		"value": 4147
+	},
+	{
+		"code": "CD",
+		"value": 181
+	},
+	{
+		"code": "CF",
+		"value": 2
+	},
+	{
+		"code": "CG",
+		"value": 58
+	},
+	{
+		"code": "CH",
+		"value": 593
+	},
+	{
+		"code": "CI",
+		"value": 35
+	},
+	{
+		"code": "CL",
+		"value": 4540
+	},
+	{
+		"code": "CM",
+		"value": 855
+	},
+	{
+		"code": "CN",
+		"value": 360122
+	},
+	{
+		"code": "CO",
+		"value": 5383
+	},
+	{
+		"code": "CR",
+		"value": 290
+	},
+	{
+		"code": "CU",
+		"value": 23
+	},
+	{
+		"code": "CV",
+		"value": 4
+	},
+	{
+		"code": "CW",
+		"value": 244
+	},
+	{
+		"code": "CY",
+		"value": 247
+	},
+	{
+		"code": "CZ",
+		"value": 4651
+	},
+	{
+		"code": "DE",
+		"value": 7273
+	},
+	{
+		"code": "DJ",
+		"value": 3
+	},
+	{
+		"code": "DK",
+		"value": 185
+	},
+	{
+		"code": "DM",
+		"value": 2
+	},
+	{
+		"code": "DO",
+		"value": 1365
+	},
+	{
+		"code": "DZ",
+		"value": 82
+	},
+	{
+		"code": "EC",
+		"value": 2939
+	},
+	{
+		"code": "EE",
+		"value": 238
+	},
+	{
+		"code": "EG",
+		"value": 5396
+	},
+	{
+		"code": "ER",
+		"value": 2
+	},
+	{
+		"code": "ES",
+		"value": 8513
+	},
+	{
+		"code": "ET",
+		"value": 21
+	},
+	{
+		"code": "EU",
+		"value": 924
+	},
+	{
+		"code": "FI",
+		"value": 412
+	},
+	{
+		"code": "FJ",
+		"value": 9
+	},
+	{
+		"code": "FR",
+		"value": 7609
+	},
+	{
+		"code": "GA",
+		"value": 25
+	},
+	{
+		"code": "GB",
+		"value": 7057
+	},
+	{
+		"code": "GD",
+		"value": 1
+	},
+	{
+		"code": "GE",
+		"value": 631
+	},
+	{
+		"code": "GF",
+		"value": 4
+	},
+	{
+		"code": "GG",
+		"value": 1
+	},
+	{
+		"code": "GH",
+		"value": 195
+	},
+	{
+		"code": "GI",
+		"value": 46
+	},
+	{
+		"code": "GM",
+		"value": 7
+	},
+	{
+		"code": "GN",
+		"value": 96
+	},
+	{
+		"code": "GQ",
+		"value": 40
+	},
+	{
+		"code": "GR",
+		"value": 2457
+	},
+	{
+		"code": "GT",
+		"value": 387
+	},
+	{
+		"code": "GU",
+		"value": 14
+	},
+	{
+		"code": "GY",
+		"value": 11
+	},
+	{
+		"code": "HK",
+		"value": 3293
+	},
+	{
+		"code": "HN",
+		"value": 772
+	},
+	{
+		"code": "HR",
+		"value": 1241
+	},
+	{
+		"code": "HT",
+		"value": 57
+	},
+	{
+		"code": "HU",
+		"value": 5382
+	},
+	{
+		"code": "ID",
+		"value": 92830
+	},
+	{
+		"code": "IE",
+		"value": 607
+	},
+	{
+		"code": "IL",
+		"value": 354
+	},
+	{
+		"code": "IM",
+		"value": 8
+	},
+	{
+		"code": "IN",
+		"value": 35814
+	},
+	{
+		"code": "IQ",
+		"value": 1620
+	},
+	{
+		"code": "IR",
+		"value": 30522
+	},
+	{
+		"code": "IS",
+		"value": 15
+	},
+	{
+		"code": "IT",
+		"value": 11726
+	},
+	{
+		"code": "JE",
+		"value": 5
+	},
+	{
+		"code": "JM",
+		"value": 41
+	},
+	{
+		"code": "JO",
+		"value": 31
+	},
+	{
+		"code": "JP",
+		"value": 2868
+	},
+	{
+		"code": "KE",
+		"value": 1048
+	},
+	{
+		"code": "KG",
+		"value": 599
+	},
+	{
+		"code": "KH",
+		"value": 4350
+	},
+	{
+		"code": "KR",
+		"value": 3574
+	},
+	{
+		"code": "KW",
+		"value": 83
+	},
+	{
+		"code": "KY",
+		"value": 4
+	},
+	{
+		"code": "KZ",
+		"value": 1155
+	},
+	{
+		"code": "LA",
+		"value": 62
+	},
+	{
+		"code": "LB",
+		"value": 1200
+	},
+	{
+		"code": "LC",
+		"value": 2
+	},
+	{
+		"code": "LK",
+		"value": 93
+	},
+	{
+		"code": "LR",
+		"value": 31
+	},
+	{
+		"code": "LS",
+		"value": 101
+	},
+	{
+		"code": "LT",
+		"value": 541
+	},
+	{
+		"code": "LU",
+		"value": 783
+	},
+	{
+		"code": "LV",
+		"value": 1036
+	},
+	{
+		"code": "LY",
+		"value": 612
+	},
+	{
+		"code": "MA",
+		"value": 70
+	},
+	{
+		"code": "MC",
+		"value": 2
+	},
+	{
+		"code": "MD",
+		"value": 691
+	},
+	{
+		"code": "ME",
+		"value": 118
+	},
+	{
+		"code": "MF",
+		"value": 4
+	},
+	{
+		"code": "MG",
+		"value": 297
+	},
+	{
+		"code": "MK",
+		"value": 588
+	},
+	{
+		"code": "ML",
+		"value": 50
+	},
+	{
+		"code": "MM",
+		"value": 135
+	},
+	{
+		"code": "MN",
+		"value": 387
+	},
+	{
+		"code": "MO",
+		"value": 56
+	},
+	{
+		"code": "MP",
+		"value": 1
+	},
+	{
+		"code": "MT",
+		"value": 98
+	},
+	{
+		"code": "MU",
+		"value": 1241
+	},
+	{
+		"code": "MV",
+		"value": 141
+	},
+	{
+		"code": "MW",
+		"value": 169
+	},
+	{
+		"code": "MX",
+		"value": 5278
+	},
+	{
+		"code": "MY",
+		"value": 4465
+	},
+	{
+		"code": "MZ",
+		"value": 173
+	},
+	{
+		"code": "NA",
+		"value": 71
+	},
+	{
+		"code": "NC",
+		"value": 17
+	},
+	{
+		"code": "NE",
+		"value": 8
+	},
+	{
+		"code": "NG",
+		"value": 1345
+	},
+	{
+		"code": "NI",
+		"value": 246
+	},
+	{
+		"code": "NL",
+		"value": 6135
+	},
+	{
+		"code": "NO",
+		"value": 850
+	},
+	{
+		"code": "NP",
+		"value": 1316
+	},
+	{
+		"code": "NZ",
+		"value": 320
+	},
+	{
+		"code": "OM",
+		"value": 43
+	},
+	{
+		"code": "PA",
+		"value": 294
+	},
+	{
+		"code": "PE",
+		"value": 2731
+	},
+	{
+		"code": "PG",
+		"value": 32
+	},
+	{
+		"code": "PH",
+		"value": 1176
+	},
+	{
+		"code": "PK",
+		"value": 3307
+	},
+	{
+		"code": "PL",
+		"value": 6970
+	},
+	{
+		"code": "PR",
+		"value": 490
+	},
+	{
+		"code": "PS",
+		"value": 1014
+	},
+	{
+		"code": "PT",
+		"value": 265
+	},
+	{
+		"code": "PW",
+		"value": 1
+	},
+	{
+		"code": "PY",
+		"value": 764
+	},
+	{
+		"code": "QA",
+		"value": 24
+	},
+	{
+		"code": "RE",
+		"value": 2
+	},
+	{
+		"code": "RO",
+		"value": 2122
+	},
+	{
+		"code": "RS",
+		"value": 2515
+	},
+	{
+		"code": "RU",
+		"value": 46384
+	},
+	{
+		"code": "RW",
+		"value": 114
+	},
+	{
+		"code": "SA",
+		"value": 753
+	},
+	{
+		"code": "SB",
+		"value": 6
+	},
+	{
+		"code": "SC",
+		"value": 4295
+	},
+	{
+		"code": "SD",
+		"value": 21
+	},
+	{
+		"code": "SE",
+		"value": 2246
+	},
+	{
+		"code": "SG",
+		"value": 2874
+	},
+	{
+		"code": "SI",
+		"value": 326
+	},
+	{
+		"code": "SK",
+		"value": 775
+	},
+	{
+		"code": "SL",
+		"value": 23
+	},
+	{
+		"code": "SM",
+		"value": 1
+	},
+	{
+		"code": "SN",
+		"value": 23
+	},
+	{
+		"code": "SO",
+		"value": 106
+	},
+	{
+		"code": "SR",
+		"value": 8
+	},
+	{
+		"code": "SS",
+		"value": 35
+	},
+	{
+		"code": "SV",
+		"value": 50
+	},
+	{
+		"code": "SX",
+		"value": 8
+	},
+	{
+		"code": "SY",
+		"value": 177
+	},
+	{
+		"code": "SZ",
+		"value": 61
+	},
+	{
+		"code": "TC",
+		"value": 1
+	},
+	{
+		"code": "TD",
+		"value": 54
+	},
+	{
+		"code": "TG",
+		"value": 18
+	},
+	{
+		"code": "TH",
+		"value": 120809
+	},
+	{
+		"code": "TJ",
+		"value": 104
+	},
+	{
+		"code": "TL",
+		"value": 41
+	},
+	{
+		"code": "TM",
+		"value": 1
+	},
+	{
+		"code": "TN",
+		"value": 25
+	},
+	{
+		"code": "TR",
+		"value": 10347
+	},
+	{
+		"code": "TT",
+		"value": 22
+	},
+	{
+		"code": "TW",
+		"value": 22666
+	},
+	{
+		"code": "TZ",
+		"value": 325
+	},
+	{
+		"code": "UA",
+		"value": 14730
+	},
+	{
+		"code": "UG",
+		"value": 130
+	},
+	{
+		"code": "US",
+		"value": 127391
+	},
+	{
+		"code": "UY",
+		"value": 270
+	},
+	{
+		"code": "UZ",
+		"value": 123
+	},
+	{
+		"code": "VC",
+		"value": 3
+	},
+	{
+		"code": "VE",
+		"value": 37675
+	},
+	{
+		"code": "VG",
+		"value": 36
+	},
+	{
+		"code": "VI",
+		"value": 8
+	},
+	{
+		"code": "VN",
+		"value": 3735
+	},
+	{
+		"code": "VU",
+		"value": 3
+	},
+	{
+		"code": "WS",
+		"value": 64
+	},
+	{
+		"code": "YE",
+		"value": 13136
+	},
+	{
+		"code": "ZA",
+		"value": 12097
+	},
+	{
+		"code": "ZM",
+		"value": 21
+	},
+	{
+		"code": "ZW",
+		"value": 143
+	}
+]
